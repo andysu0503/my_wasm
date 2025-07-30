@@ -3,10 +3,10 @@
   Access-Control-Allow-Methods: GET
   Access-Control-Allow-Headers: Content-Type
 
-/my_wasm/ground_renderer.wasm
+/ground_renderer.wasm
   Content-Type: application/wasm
   Access-Control-Allow-Origin: *
 
-/my_wasm/ground_renderer.js
+/ground_renderer.js
   Content-Type: application/javascript
   Access-Control-Allow-Origin: *
